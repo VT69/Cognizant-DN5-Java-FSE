@@ -1,0 +1,40 @@
+# Folders
+Java FSE/
+
+# Archives
+*.zip
+
+# Documents
+*.pdf
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+out/
+
+# Maven
+.mvn/
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
