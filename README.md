@@ -24,15 +24,13 @@ This repository contains my solutions, hands-on exercises, notes, and learning a
 
 ```text
 .
-├── Java FSE/
-│   ├── Week-01-DesignPatterns-DSA/
-│   ├── Week-02-PLSQL-TDD/
-│   ├── Week-03-SpringCore-Maven/
-│   ├── Week-04-SpringBoot-JPA/
-│   ├── Week-05-REST-Microservices/
-│   ├── Week-06-React/
-│   ├── Week-07-Final-Assessment/
-│   └── Resources/
+├── Week-01-DesignPatterns-DSA/
+├── Week-02-PLSQL-TDD/
+├── Week-03-SpringCore-Maven/
+├── Week-04-SpringBoot-JPA/
+├── Week-05-REST-Microservices/
+├── Week-06-React/
+├── Week-07-Final-Assessment/
 ├── README.md
 └── .gitignore
 ```
